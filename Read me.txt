@@ -1,0 +1,18 @@
+Metro Route Tracker
+
+
+This project aims to display a best route from a start station to a end station which the user wishes to travel.
+This also prints the total fare for the travel and also indicates whether the user has to change from one lane to the other lane during the travel.
+(In real world metro application there are currently green and purple lanes which we have considered and implemented our project using these lanes)
+
+Steps to Execute the program:
+
+1. When the program is run,safety measures will be displayed.
+2. User will have to enter the name and gender.
+3. Then the user has to enter the start and end station number ranging from 1-9 .
+    (We have selected a specific graph which connects green and purple lane, the image of that graph is also attached in the zip folder for reference)
+4. The route that the user will have to take will be printed along with the lane to which each station belongs.The total fare for the travel will also be displayed
+5. Then if you wish to book another ticket then the user has to enter 1 or else enter 0.
+6. After all the required number of tickets are booked, the user enters 0 and wishes to end the ticket booking process.
+7. The ticket sales report will be printed.
+
